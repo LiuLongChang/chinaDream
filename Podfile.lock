@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (3.4.1)
+  - GearRefreshControl (0.3.0)
+  - Kingfisher (2.4.1)
+  - SnapKit (0.30.0.beta2)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4.1)
+  - GearRefreshControl (~> 0.3.0)
+  - Kingfisher (~> 2.4.1)
+  - SnapKit (~> 0.30.0.beta2)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  GearRefreshControl: c7b1abac8a298f180df48c1bc450469e98840c46
+  Kingfisher: 41aed5b6c1ed8fa98cf6d75283ce89cf7890f517
+  SnapKit: c4bb32b1d3c5d18ff63bf95ffcbc599d2bab964c
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 3a2c10e43cfbd6f7f1bdd0d430d839b58c9ae985
+
+COCOAPODS: 1.0.1
