@@ -191,9 +191,6 @@ extension APIClient{
     
     }
 
-
-
-
     func changeAvatar(uid: AnyObject, token: AnyObject, url: AnyObject, success: Success, failure: Failure) {
         let dict = ["uid": uid, "token": token, "url": url]
         postJSONData("change_avatar", parameters: dict, success: success, failure: failure)

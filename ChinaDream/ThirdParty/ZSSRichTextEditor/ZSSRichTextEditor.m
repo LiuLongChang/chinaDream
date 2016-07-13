@@ -13,7 +13,7 @@
 #import "HRColorUtil.h"
 #import "ZSSTextView.h"
 
-#import "IBBS-Swift.h"
+#import "ChinaDream-Swift.h"
 
 
 @interface UIWebView (HackishAccessoryHiding)

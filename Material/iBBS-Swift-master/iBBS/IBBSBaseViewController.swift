@@ -38,6 +38,7 @@ class IBBSBaseViewController: UITableViewController {
         NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(IBBSBaseViewController.updateTheme), name: kThemeDidChangeNotification, object: nil)
         NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(IBBSBaseViewController.hideCornerActionButton), name: kShouldHideCornerActionButton, object: nil)
         NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(IBBSBaseViewController.showCornerActionButton), name: kShouldShowCornerActionButton, object: nil)
+        
     }
     
     
